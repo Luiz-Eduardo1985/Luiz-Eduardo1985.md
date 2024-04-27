@@ -2,7 +2,7 @@
 
 #  Olá pessoal! 💻
 
-## Essa é uma breve apresentação, me chamo **Luiz Eduardo Rodrigues**, sou estudante tecnologia em análise e desenvolvimento de sistema no [*ENIAC*](https://www.eniac.com.br/) , estou migrando da área de automação industrial, em busca de uma oportunidade para aperfeiçoamento dos conhecimentos adquiridos nos diversos cursos feitos, como por exemplo:<br>
+## Essa é uma breve apresentação, me chamo **Luiz Eduardo Rodrigues**, sou estudante de tecnologia em análise e desenvolvimento de sistema no [*ENIAC*](https://www.eniac.com.br/) , estou migrando da área de automação industrial, em busca de uma oportunidade para aperfeiçoamento dos conhecimentos adquiridos nos diversos cursos feitos, como por exemplo:<br>
 
  * ## Desenvolvimento de software com foco em back-end na [*cubos academy*](https://cubos.academy/).<br> 
  * ## Re/start - introdução a cloud computing na [*Escola da nuvem*](https://escoladanuvem.org) - com certificação AWS cloud practitioner.<br> 
